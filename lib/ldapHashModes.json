@@ -1,0 +1,14 @@
+{
+  "SSHA": {
+    "cryptoParam": "sha1",
+    "hashBytesLength": 20
+  },
+  "SSHA256": {
+    "cryptoParam": "sha256",
+    "hashBytesLength": 32
+  },
+  "SSHA512": {
+    "cryptoParam": "sha512",
+    "hashBytesLength": 64
+  }
+}
