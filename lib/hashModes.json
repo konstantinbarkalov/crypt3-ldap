@@ -1,0 +1,20 @@
+{
+  "ssha1": {
+    "crypt3Name": false,
+    "ldapName": "SSHA",
+    "cryptoName": "sha1",
+    "hashBytesLength": 20
+  },
+  "ssha256": {
+    "crypt3Name": "5",
+    "ldapName": "SSHA256",
+    "cryptoName": "sha256",
+    "hashBytesLength": 32
+  },
+  "ssha512": {
+    "crypt3Name": "6",
+    "ldapName": "SSHA512",
+    "cryptoName": "sha512",
+    "hashBytesLength": 64
+  }
+}
