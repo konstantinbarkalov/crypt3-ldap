@@ -1,6 +1,6 @@
 'use strict'
 let ssha = {
   ldap: require('./lib/ldapHash'),
-  crypto3: require('./lib/crypto3Hash'),
+  crypt3: require('./lib/crypt3Hash'),
 }
 module.exports = ssha;
