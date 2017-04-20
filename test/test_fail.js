@@ -12,7 +12,7 @@ describe('bad things (must fail)',function(){
                     done();
                 }).catch((err)=> {
                     should.exist(err);
-                    err.message.should.equal('unsupported mode: SSHB');
+                    err.message.should.equal('unsupported mode');
                     done();
                 });
         })
